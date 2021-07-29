@@ -1,0 +1,30 @@
+.custom-text-color{
+  color: #E76F51;
+}
+.bike-btn-btn-warning{
+  background-color: #E76F51;
+  color: aliceblue;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
+.honda-bg-dark{
+  background-color: #264653;
+}
+.gray-img{
+  filter: grayscale(100%);
+}
+.client .card img{
+  height: 149px;
+  width: 149px;
+}
+.client .card{
+  background-color: rgb(255, 255, 255);
+  Width: 322px; 
+  Height:478.01px; 
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
